@@ -12,9 +12,14 @@
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
 </p>
 
-* My primary coding and problem solving language: C++
-* Now exploring all domain to now what meant for me. 
-* I am currently learning web development and i can help you as much as i can in web development. 
+👋 Hey there! I'm Indu, a passionate front-end developer. My journey in web development has been fueled by a love for crafting engaging user experiences. You'll often find me exploring the latest trends in HTML, CSS, Bootstrap, and JavaScript to create sleek and dynamic interfaces.
+
+💻 While I'm deeply entrenched in the frontend realm, I also have a solid foundation in C++, which allows me to approach problem-solving from multiple angles. Whether I'm building responsive websites or diving into algorithmic challenges, I thrive on the intersection of creativity and logic.
+
+🌱 Currently, my focus is on mastering React and expanding my toolkit to build powerful, interactive web applications. I'm always eager to collaborate on exciting projects and continue learning from fellow developers in this ever-evolving tech landscape.
+
+Let's connect and code something awesome together! 🚀
+
 
 ---
 
